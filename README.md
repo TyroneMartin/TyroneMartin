@@ -42,4 +42,13 @@ Currently growing my stack and open to new opportunities.
 
 ![Tyrone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyroneMartin&show_icons=true&theme=default&hide_border=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+<!-- 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TyroneMartin&layout=compact&theme=default&hide_border=false&langs_count=6)
+-->
+
+
+
+
 </div>
